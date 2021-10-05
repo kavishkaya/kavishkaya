@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.ibb.co/qsGX8NM/2264186-1.jpg?compress=1&resize=400x400" width="250" height="180">
+  <img src="https://i.ibb.co/qsGX8NM/2264186-1.jpg?compress=1&resize=400x400" width="250" height="250">
   <h1>KAVISHKA SANDARUWAN</h1>
 </div>
 
